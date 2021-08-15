@@ -1,0 +1,22 @@
+body{
+    height: 95vh;
+    width: 95vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #FFF900;
+    color: black ;
+    margin-left: 350px;
+}
+
+.imagem{
+    height: 300px;
+    width: 300px;
+    padding-bottom: 0;
+}
+
+.snake {
+    border: 1px;
+    border-color:white ;
+
+}
